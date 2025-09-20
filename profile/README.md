@@ -1,4 +1,4 @@
-# IT:U Smart Space Sensing and Systems Lab (S³ Lab) 🚀 #
+# IT:U Smart Sensing and Systems Lab (S³ Lab) 🚀 #
 
 🎓 At the **S³ Lab**, our educational philosophy is founded on **Project-based Learning**, giving students hands-on experiences that bridge academic theory with real-world applications.
 
